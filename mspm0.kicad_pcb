@@ -38484,7 +38484,7 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "Author: Alipay\nDate:   2024-04-16\nVersion:V1.1\nMSPM0-DevBoard"
+	(gr_text "Author: Alipay\nDate:   2024-07-16\nVersion:V1.2\nMSPM0-DevBoard"
 		(at 181.35 40.15 0)
 		(layer "B.SilkS")
 		(uuid "cb8608c2-ca98-4978-9941-ba2f6a835f3e")
